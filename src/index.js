@@ -2,7 +2,7 @@ const express = require('express')
 const resource = require('./routes/resource')
 const path = require('path')
 
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 80
 const app = new express()
 
 //json body parser
