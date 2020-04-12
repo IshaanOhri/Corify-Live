@@ -2,3 +2,4 @@ node_modules
 .DS_Store
 .vscode
 playground.js
+sample.html

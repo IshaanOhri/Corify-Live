@@ -1,1 +1,228 @@
-const _0x1e21=['\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22','#06409C','worldwide','ctrlKey','active','Mac','addOverlay','toLocaleString','cancelBubble','contextmenu','stroke:\x20rgb(215,215,215)','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22country\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22country-flag\x22\x20style=\x22background-image:\x20url(','then','more-info','#recovery-rate','delay',';\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x20\x20','total','dragstart','reports','#total-count','globe','-recovered\x22></span>\x20recovered</span><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','#1C51A5','fadeIn','#mortality-rate','onkeydown','cases','#052472','preventDefault','json','remove','\x20deceased</span><br/>','click','goTo','show',';\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','max','deltaCases','#search-bar','-active\x22></span>\x20active</span><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span><span\x20id=\x22','flag','error','deltaDeaths','length','mapSvg','<span><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22tiny\x22>','countries','autoRotate','event','match','append','test','total-cases','bind','#063D8E','Not\x20Working','keyCode','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22title\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>','#loader-container',')\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22country-info\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22country-name\x22>','stopPropagation','html','substr','catch','/resource/black.svg','-active','addEventListener','platform','values','\x20cases</span><br/>','total-recovered','recovered','lat','name','#053580','#993636','countriesSortedByActive','<span>+\x20','log','#ff0000','-dead','start','ISO_','#total-recovered','RGBA(0,0,0,\x20.75)','#031E47','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<hr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22changed\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20style=\x22color:\x20white\x22>TODAY</span><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','\x20<span\x20class=\x22muted\x22>total\x20cases</span></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20','userAgent','#042356','#02122B','#total-deaths','deaths','</span><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22country-cases\x22>','-recovered','toFixed','charCode','&nbsp;(','text','total-deaths','slice','lng','#031839','#country-list','\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20fill:\x20','RGBA(0,\x200,\x200,\x200)','#042964','metaKey','#380000'];(function(_0x288fc9,_0x1e21e4){const _0x23b4f7=function(_0x586772){while(--_0x586772){_0x288fc9['push'](_0x288fc9['shift']());}};_0x23b4f7(++_0x1e21e4);}(_0x1e21,0x6e));const _0x23b4=function(_0x288fc9,_0x1e21e4){_0x288fc9=_0x288fc9-0x0;let _0x23b4f7=_0x1e21[_0x288fc9];return _0x23b4f7;};window['onload']=function(){document[_0x23b4('0x45')](_0x23b4('0xb'),function(_0x5b9373){_0x5b9373[_0x23b4('0x1f')]();},![]);document['addEventListener']('keydown',function(_0x57c3a7){if(_0x57c3a7[_0x23b4('0x5')]&&_0x57c3a7['shiftKey']&&_0x57c3a7[_0x23b4('0x3b')]==0x49){_0x2acc21(_0x57c3a7);}if(_0x57c3a7[_0x23b4('0x5')]&&_0x57c3a7['shiftKey']&&_0x57c3a7[_0x23b4('0x3b')]==0x4a){_0x2acc21(_0x57c3a7);}if(_0x57c3a7[_0x23b4('0x3b')]==0x53&&(navigator['platform'][_0x23b4('0x34')](_0x23b4('0x7'))?_0x57c3a7['metaKey']:_0x57c3a7[_0x23b4('0x5')])){_0x2acc21(_0x57c3a7);}if(_0x57c3a7[_0x23b4('0x3b')]==0x8&&(navigator[_0x23b4('0x46')][_0x23b4('0x34')]('Mac')?_0x57c3a7[_0x23b4('0x6e')]:_0x57c3a7[_0x23b4('0x5')])){diabledEvent(_0x57c3a7);}if(_0x57c3a7['keyCode']==0x22&&(navigator[_0x23b4('0x46')]['match'](_0x23b4('0x7'))?_0x57c3a7[_0x23b4('0x6e')]:_0x57c3a7[_0x23b4('0x5')])){_0x2acc21(_0x57c3a7);}if(_0x57c3a7[_0x23b4('0x5')]&&_0x57c3a7[_0x23b4('0x3b')]==0x55){_0x2acc21(_0x57c3a7);}if(event[_0x23b4('0x3b')]==0x7b){_0x2acc21(_0x57c3a7);}},![]);function _0x2acc21(_0x4e4f8d){if(_0x4e4f8d[_0x23b4('0x3f')]){_0x4e4f8d['stopPropagation']();}else if(window['event']){window[_0x23b4('0x33')][_0x23b4('0xa')]=!![];}_0x4e4f8d['preventDefault']();return![];}};document[_0x23b4('0x1c')]=function(_0x41cb56){var _0x593fa2=_0x41cb56[_0x23b4('0x63')]||_0x41cb56[_0x23b4('0x3b')];if(_0x593fa2==0x8){console[_0x23b4('0x51')](_0x23b4('0x3a'));}else{_0x41cb56[_0x23b4('0x1f')]();}};const colorDecider=_0x4acac8=>{if(_0x4acac8>=0x0&&_0x4acac8<0.1){return _0x23b4('0x19');}else if(_0x4acac8>=0.1&&_0x4acac8<0.2){return _0x23b4('0x3');}else if(_0x4acac8>=0.2&&_0x4acac8<0.3){return _0x23b4('0x39');}else if(_0x4acac8>=0.3&&_0x4acac8<0.4){return _0x23b4('0x4d');}else if(_0x4acac8>=0.4&&_0x4acac8<0.5){return _0x23b4('0x1e');}else if(_0x4acac8>=0.5&&_0x4acac8<0.6){return _0x23b4('0x6d');}else if(_0x4acac8>=0.6&&_0x4acac8<0.7){return _0x23b4('0x5c');}else if(_0x4acac8>=0.7&&_0x4acac8<0.8){return _0x23b4('0x58');}else if(_0x4acac8>=0.8&&_0x4acac8<0.9){return _0x23b4('0x69');}else if(_0x4acac8>=0.9&&_0x4acac8<=0x1){return _0x23b4('0x5d');}else{return _0x23b4('0x4e');}};const START=_0x23b4('0x0'),STOP=_0x23b4('0x52'),NONE='#131313',COUNT_UP_OPTIONS={'duration':0x1},SEARCH_OPTIONS={'keys':[{'name':_0x23b4('0x4c'),'weight':0.5},{'name':_0x23b4('0x13'),'weight':0.3},{'name':'iso','weight':0.2}]};let isMobile=!0x1;(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i[_0x23b4('0x36')](navigator[_0x23b4('0x5b')])||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i['test'](navigator[_0x23b4('0x5b')][_0x23b4('0x41')](0x0,0x4)))&&(isMobile=!0x0);let countries,countUps={},overlays={},activeOverlay,fuse,globe;fetch(_0x23b4('0x43'))[_0x23b4('0xe')](_0x4ae3c1=>_0x4ae3c1[_0x23b4('0x65')]())[_0x23b4('0xe')](_0x390d12=>getData(_0x390d12))[_0x23b4('0x42')](console[_0x23b4('0x2c')][_0x23b4('0x38')](console));let getData=_0x23419c=>{let _0x8bfde7={};fetch('/resource/data')[_0x23b4('0xe')](_0x4fdfc5=>_0x4fdfc5[_0x23b4('0x20')]())[_0x23b4('0xe')](_0x4f0776=>{countries=_0x4f0776[_0x23b4('0x31')],$(_0x23b4('0x16'))[_0x23b4('0x65')]('/'+_0x4f0776[_0x23b4('0x4')][_0x23b4('0x15')]['toLocaleString']()),$(_0x23b4('0x1b'))[_0x23b4('0x40')](_0x23b4('0x64')+(_0x4f0776['worldwide'][_0x23b4('0x5f')]/_0x4f0776['worldwide'][_0x23b4('0x15')]*0x64)[_0x23b4('0x62')](0x2)+'%)'),$(_0x23b4('0x10'))[_0x23b4('0x40')](_0x23b4('0x64')+(_0x4f0776[_0x23b4('0x4')]['recovered']/_0x4f0776[_0x23b4('0x4')][_0x23b4('0x15')]*0x64)[_0x23b4('0x62')](0x2)+'%)');for(let _0x45efc2 of _0x4f0776[_0x23b4('0x4f')])_0x8bfde7[_0x45efc2]=countries[_0x45efc2][_0x23b4('0x15')]**0.25,'NP'!=_0x45efc2&&addToCountryList(_0x45efc2);createGlobe(_0x4f0776[_0x23b4('0x27')],_0x8bfde7,_0x4f0776['countries'],_0x23419c),fadeIn(_0x4f0776['worldwide'][_0x23b4('0x15')],_0x4f0776[_0x23b4('0x4')]['deaths'],_0x4f0776[_0x23b4('0x4')]['recovered']);})[_0x23b4('0x42')](_0x59e847=>console[_0x23b4('0x51')](_0x59e847));},addToCountryList=_0x21abd9=>{$(_0x23b4('0x6a'))[_0x23b4('0x35')](_0x23b4('0xd')+countries[_0x21abd9][_0x23b4('0x2b')]+_0x23b4('0x3e')+countries[_0x21abd9][_0x23b4('0x4c')]+_0x23b4('0x60')+countries[_0x21abd9][_0x23b4('0x15')]['toLocaleString']()+_0x23b4('0x5a'));};const createGlobe=(_0x59ca06,_0x1a6cc5,_0xe616bd,_0x37ab55)=>{_0x1a6cc5[_0x59ca06]=0x0;const _0x5d375f=Math['max'](...Object[_0x23b4('0x47')](_0x1a6cc5));_0x1a6cc5[_0x59ca06]=_0x5d375f+_0x5d375f/0x2;let _0x53715e,_0x29a1a3='',_0x14a7c6={},_0x551df7;for(let _0x11296d in _0x1a6cc5){_0x53715e=colorDecider(_0x1a6cc5[_0x11296d]/_0x1a6cc5[_0x59ca06]);let _0x371efc=_0xe616bd[_0x11296d][_0x23b4('0x28')]>0x0||_0xe616bd[_0x11296d][_0x23b4('0x2d')]>0x0;_0x14a7c6[_0x11296d]=_0x53715e,_0x29a1a3+='#'+_0x11296d+_0x23b4('0x6b')+_0x53715e+_0x23b4('0x26')+(_0x371efc?_0x23b4('0xc'):'')+_0x23b4('0x12');}$(_0x23b4('0x3d'))[_0x23b4('0x21')](),Earth[_0x23b4('0x2f')]=_0x37ab55,globe=new Earth(_0x23b4('0x17'),{'autoRotate':!0x0,'autoRotateDelay':0xbb8,'mapHitTest':!0x0,'mapLandColor':NONE,'mapSeaColor':_0x23b4('0x57'),'mapBorderColor':_0x23b4('0x6c'),'mapStyles':_0x29a1a3[_0x23b4('0x67')](0x0,_0x29a1a3[_0x23b4('0x2e')]-0x3),'transparent':!0x0,'lightType':'sun','lightIntensity':0x1,'quality':0x4,'zoom':isMobile?0.8:0x1,'zoomMax':0x2,'zoomable':!0x0});for(let _0x22bde2 in _0xe616bd)_0x551df7=_0xe616bd[_0x22bde2],overlays[_0x22bde2]={'reports':_0x551df7[_0x23b4('0x15')],'deaths':_0x551df7[_0x23b4('0x5f')],'recovered':_0x551df7[_0x23b4('0x4a')],'location':{'lat':_0x551df7[_0x23b4('0x4b')],'lng':_0x551df7[_0x23b4('0x68')]},'className':_0x23b4('0x55')+_0x22bde2,'content':makeOverlay(_0x22bde2,_0x551df7,_0x14a7c6),'events':!0x0,'counter':{'active':void 0x0,'deaths':void 0x0,'recovered':void 0x0}};globe[_0x23b4('0x45')](_0x23b4('0x14'),()=>{activeOverlay&&activeOverlay['remove'](),globe[_0x23b4('0x32')]=!0x0;}),$('#more-info-button')['on'](_0x23b4('0x23'),()=>{MicroModal[_0x23b4('0x25')](_0x23b4('0xf'));activeOverlay&&activeOverlay[_0x23b4('0x21')](),globe[_0x23b4('0x32')]=!0x0;}),updateGlobeListener(globe);};let updateGlobeListener=_0xd43f76=>{_0xd43f76[_0x23b4('0x45')](_0x23b4('0x23'),_0x380f56=>{0x0!=$(_0x23b4('0x29'))[_0x23b4('0x2e')]&&closeSearch(),activeOverlay&&activeOverlay[_0x23b4('0x21')](),_0x380f56['id']&&_0x380f56['id']in countries&&goToCountry(_0x380f56['id'],_0xd43f76);});};goToCountry=_0x5776ab=>{globe[_0x23b4('0x32')]=!0x1,activeOverlay&&activeOverlay[_0x23b4('0x21')](),activeOverlay=globe[_0x23b4('0x8')](overlays[_0x5776ab]);try{countUps[_0x5776ab]={'active':void 0x0,'deaths':void 0x0,'recovered':void 0x0},countUps[_0x5776ab][_0x23b4('0x6')]=new CountUp(_0x5776ab+_0x23b4('0x44'),countries[_0x5776ab]['reports'],COUNT_UP_OPTIONS),countUps[_0x5776ab]['deaths']=new CountUp(_0x5776ab+_0x23b4('0x53'),countries[_0x5776ab]['deaths'],COUNT_UP_OPTIONS),countUps[_0x5776ab][_0x23b4('0x4a')]=new CountUp(_0x5776ab+_0x23b4('0x61'),countries[_0x5776ab][_0x23b4('0x4a')],COUNT_UP_OPTIONS),countUps[_0x5776ab][_0x23b4('0x6')]['start'](),countUps[_0x5776ab][_0x23b4('0x5f')][_0x23b4('0x54')](),countUps[_0x5776ab][_0x23b4('0x4a')]['start']();}catch(_0x4ba528){console[_0x23b4('0x51')](_0x4ba528),$('#'+_0x5776ab+_0x23b4('0x44'))[_0x23b4('0x65')](countries[_0x5776ab][_0x23b4('0x15')]['toLocaleString']()),$('#'+_0x5776ab+'-dead')['text'](countries[_0x5776ab][_0x23b4('0x5f')][_0x23b4('0x9')]()),$('#'+_0x5776ab+_0x23b4('0x61'))['text'](countries[_0x5776ab][_0x23b4('0x4a')][_0x23b4('0x9')]());}globe[_0x23b4('0x24')]({'lat':countries[_0x5776ab]['lat'],'lng':countries[_0x5776ab][_0x23b4('0x68')]},{'relativeDuration':0xc8,'zoom':isMobile?0.9:1.1});},makeOverlay=(_0x141659,_0x1ec887,_0x51ec16)=>_0x23b4('0x2')+_0x1ec887[_0x23b4('0x2b')]+_0x23b4('0x3c')+_0x1ec887[_0x23b4('0x4c')]+_0x23b4('0x30')+_0x1ec887[_0x23b4('0x1d')][_0x23b4('0x9')]()+'\x20total\x20cases</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22info\x22\x20style=\x22background-color:\x20'+_0x51ec16[_0x141659]+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span><span\x20id=\x22'+_0x141659+_0x23b4('0x2a')+_0x141659+'-dead\x22></span>\x20deceased</span><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span><span\x20id=\x22'+_0x141659+_0x23b4('0x18')+(_0x1ec887['deltaCases']>0x0||_0x1ec887[_0x23b4('0x2d')]>0x0?_0x23b4('0x59')+(_0x1ec887['deltaCases']>0x0?_0x23b4('0x50')+_0x1ec887[_0x23b4('0x28')]['toLocaleString']()+_0x23b4('0x48'):'')+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+(_0x1ec887[_0x23b4('0x2d')]>0x0?_0x23b4('0x50')+_0x1ec887[_0x23b4('0x2d')][_0x23b4('0x9')]()+_0x23b4('0x22'):'')+_0x23b4('0x1'):'')+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20',fadeIn=(_0x224c99,_0x5041bb,_0x26501d)=>{setTimeout(()=>{try{new CountUp(_0x23b4('0x37'),_0x224c99-_0x5041bb-_0x26501d,COUNT_UP_OPTIONS)[_0x23b4('0x54')](),setTimeout(()=>{new CountUp(_0x23b4('0x66'),_0x5041bb,COUNT_UP_OPTIONS)[_0x23b4('0x54')]();},0x3e8),setTimeout(()=>{new CountUp(_0x23b4('0x49'),_0x26501d,COUNT_UP_OPTIONS)[_0x23b4('0x54')]();},0x5dc);}catch(_0x3c10e0){$('#total-cases')[_0x23b4('0x65')]((_0x224c99-_0x5041bb-_0x26501d)[_0x23b4('0x9')]()),$(_0x23b4('0x5e'))[_0x23b4('0x65')](_0x5041bb[_0x23b4('0x9')]()),$(_0x23b4('0x56'))['text'](_0x26501d[_0x23b4('0x9')]());}},0x3e8),$('#header')['delay'](0x1f4)[_0x23b4('0x1a')](0x1f4),$('#footer')[_0x23b4('0x11')](0x3e8)[_0x23b4('0x1a')](0x1f4);};
+window.onload = function() {
+    document.addEventListener("contextmenu", function(e){
+      e.preventDefault();
+    }, false);
+    document.addEventListener("keydown", function(e) {
+    //document.onkeydown = function(e) {
+      // "I" key
+      if (e.ctrlKey && e.shiftKey && e.keyCode == 73) {
+        disabledEvent(e);
+      }
+      // "J" key
+      if (e.ctrlKey && e.shiftKey && e.keyCode == 74) {
+        disabledEvent(e);
+      }
+      // "S" key + macOS
+      if (e.keyCode == 83 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
+        disabledEvent(e);
+      }
+      // "C" key + macOS
+      if (e.keyCode == 8 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
+        diabledEvent(e);
+      }
+      // "I" key + macOS
+      if (e.keyCode == 34 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
+        disabledEvent(e);
+      }
+      // "U" key
+      if (e.ctrlKey && e.keyCode == 85) {
+        disabledEvent(e);
+      }
+      // "F12" key
+      if (event.keyCode == 123) {
+        disabledEvent(e);
+      }
+    }, false);
+    function disabledEvent(e){
+      if (e.stopPropagation){
+        e.stopPropagation();
+      } else if (window.event){
+        window.event.cancelBubble = true;
+      }
+      e.preventDefault();
+      return false;
+    }
+  };
+
+const colorDecider = (cases) => {
+    if(cases >= 0 && cases < 0.1){
+        return "#1C51A5"
+    }else if(cases >= 0.1 && cases < 0.2){
+        return "#06409C"
+    }else if(cases >= 0.2 && cases < 0.3){
+        return "#063D8E"
+    }else if(cases >= 0.3 && cases < 0.4){
+        return "#053580"
+    }else if(cases >= 0.4 && cases < 0.5){
+        return "#052472"
+    }else if(cases >= 0.5 && cases < 0.6){
+        return "#042964"
+    }else if(cases >= 0.6 && cases < 0.7){
+        return "#042356"
+    }else if(cases >= 0.7 && cases < 0.8){
+        return "#031E47"
+    }else if(cases >= 0.8 && cases < 0.9){
+        return "#031839"
+    }else if(cases >= 0.9 && cases <= 1.0){
+        return "#02122B"
+    }else{
+        return "#993636"
+    }
+}
+
+
+
+//
+const START = "#380000",
+    STOP = "#ff0000",
+    NONE = "#131313",
+    COUNT_UP_OPTIONS = {
+        duration: 1
+    },
+    SEARCH_OPTIONS = {
+        keys: [{
+            name: "name",
+            weight: .5
+        }, {
+            name: "total",
+            weight: .3
+        }, {
+            name: "iso",
+            weight: .2
+        }]
+    };
+let isMobile = !1;
+(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|ipad|iris|kindle|Android|Silk|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(navigator.userAgent) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(navigator.userAgent.substr(0, 4))) && (isMobile = !0);
+
+let countries, countUps = {},
+    overlays = {},
+    activeOverlay, fuse, globe,svg_g;
+fetch("/resource/black.svg").then(res => res.text()).then(svg => {
+    getData(svg)
+}).catch(console.error.bind(console));
+
+
+
+let getData = svg => {
+        let reports = {};
+        fetch("/resource/data").then(res => res.json()).then(data => {
+            countries = data.countries,  $("#total-count").text(`/${data.worldwide.reports.toLocaleString()}`), $("#mortality-rate").html(`&nbsp;(${(data.worldwide.deaths/data.worldwide.reports*100).toFixed(2)}%)`), $("#recovery-rate").html(`&nbsp;(${(data.worldwide.recovered/data.worldwide.reports*100).toFixed(2)}%)`);
+            for(let iso of data.countriesSortedByActive) reports[iso] = countries[iso].reports ** .25, "NP" != iso && addToCountryList(iso);
+            createGlobe(data.max, reports, data.countries, svg), fadeIn(data.worldwide.reports, data.worldwide.deaths, data.worldwide.recovered)
+            console.log('first time rendering finished')
+            //Pusher.logToConsole = true
+
+            var pusher = new Pusher('9c724564ee194a941319', {
+                cluster: 'ap2',
+                forceTLS: true
+              })
+        
+            var channel = pusher.subscribe('data-changed');
+            channel.bind('corona-cases', function(data) {
+                console.log('working')
+                fetch("/resource/data").then(res => res.json()).then(data => {
+                    countries = data.countries,  $("#total-count").text(`/${data.worldwide.reports.toLocaleString()}`), $("#mortality-rate").html(`&nbsp;(${(data.worldwide.deaths/data.worldwide.reports*100).toFixed(2)}%)`), $("#recovery-rate").html(`&nbsp;(${(data.worldwide.recovered/data.worldwide.reports*100).toFixed(2)}%)`);
+                    for(let iso of data.countriesSortedByActive) reports[iso] = countries[iso].reports ** .25, "NP" != iso && addToCountryList(iso);
+                    $("#total-cases").text((data.worldwide.reports - data.worldwide.deaths - data.worldwide.recovered).toLocaleString()), $("#total-deaths").text(data.worldwide.deaths.toLocaleString()), $("#total-recovered").text(data.worldwide.recovered.toLocaleString())
+                })
+            }) 
+
+        }).catch(e => console.log(e))
+    },
+    addToCountryList = iso => {
+        $("#country-list").append(`\n        <div class="country">\n            <div class="country-flag" style="background-image: url(${countries[iso].flag})"></div>\n            <div class="country-info">\n                <span class="country-name">${countries[iso].name}</span><br/>\n                <span class="country-cases">${countries[iso].reports.toLocaleString()} <span class="muted">total cases</span></span>\n            </div>\n        </div>\n    `)
+    };
+const createGlobe = (max, reports, countries, svg) => {
+    reports[max] = 0;
+    const maxReports = Math.max(...Object.values(reports));
+    reports[max] = maxReports + maxReports / 2;
+    let color, mapColors = "",
+        countryColors = {},
+        country;
+    for(let iso in reports) {
+        color = colorDecider( reports[iso] / reports[max]);
+        let changed = countries[iso].deltaCases > 0 || countries[iso].deltaDeaths > 0;
+        countryColors[iso] = color, mapColors += `#${iso} {\n            fill: ${color};\n            ${changed?"stroke: rgb(215,215,215)":""};\n        }  `
+    }
+    $("#loader-container").remove(), Earth.mapSvg = svg, globe = new Earth("globe", {
+        autoRotate: !0,
+        autoRotateDelay: 3e3,
+        mapHitTest: !0,
+        mapLandColor: NONE,
+        mapSeaColor: "RGBA(0,0,0, .75)",
+        mapBorderColor: "RGBA(0, 0, 0, 0)",
+        mapStyles: mapColors.slice(0, mapColors.length - 3),
+        transparent: !0,
+        lightType: "sun",
+        lightIntensity: 1,
+        quality: 4,
+        zoom: isMobile ? .8 : 1,
+        zoomMax: 2,
+        zoomable: !0
+    });
+    for(let iso in countries) country = countries[iso], overlays[iso] = {
+        reports: country.reports,
+        deaths: country.deaths,
+        recovered: country.recovered,
+        location: {
+            lat: country.lat,
+            lng: country.lng
+        },
+        className: `ISO_${iso}`,
+        content: makeOverlay(iso, country, countryColors),
+        events: !0,
+        counter: {
+            active: void 0,
+            deaths: void 0,
+            recovered: void 0
+        }
+    };
+    globe.addEventListener("dragstart", () => {
+        activeOverlay && activeOverlay.remove(), globe.autoRotate = !0
+    }), $("#more-info-button").on("click", () => {
+        MicroModal.show('more-info')
+        activeOverlay && activeOverlay.remove(), globe.autoRotate = !0
+    }), updateGlobeListener(globe)
+};
+let updateGlobeListener = globe => {
+        globe.addEventListener("click", event => {
+            0 != $("#search-bar").length && closeSearch(), activeOverlay && activeOverlay.remove(), event.id && event.id in countries && goToCountry(event.id, globe)
+        })
+    }
+    goToCountry = iso => {
+        globe.autoRotate = !1, activeOverlay && activeOverlay.remove(), activeOverlay = globe.addOverlay(overlays[iso]);
+        try {
+            countUps[iso] = {
+                active: void 0,
+                deaths: void 0,
+                recovered: void 0
+            }, countUps[iso].active = new CountUp(iso + "-active", countries[iso].reports, COUNT_UP_OPTIONS), countUps[iso].deaths = new CountUp(iso + "-dead", countries[iso].deaths, COUNT_UP_OPTIONS), countUps[iso].recovered = new CountUp(iso + "-recovered", countries[iso].recovered, COUNT_UP_OPTIONS), countUps[iso].active.start(), countUps[iso].deaths.start(), countUps[iso].recovered.start()
+        } catch (err) {
+            console.log(err), $(`#${iso}-active`).text(countries[iso].reports.toLocaleString()), $(`#${iso}-dead`).text(countries[iso].deaths.toLocaleString()), $(`#${iso}-recovered`).text(countries[iso].recovered.toLocaleString())
+        }
+        globe.goTo({
+            lat: countries[iso].lat,
+            lng: countries[iso].lng
+        }, {
+            relativeDuration: 200,
+            zoom: isMobile ? .9 : 1.1
+        })
+    },
+    makeOverlay = (iso, country, colors) => `\n        <img src="${country.flag}">\n        <div class="title">\n            <span>${country.name}<span><br/>\n            <span class="tiny">${country.cases.toLocaleString()} total cases</span>\n        </div>\n        <div class="info" style="background-color: ${colors[iso]}">\n            <span><span id="${iso}-active"></span> active</span><br/>\n            <span><span id="${iso}-dead"></span> deceased</span><br/>\n            <span><span id="${iso}-recovered"></span> recovered</span><br/>\n            ${country.deltaCases>0||country.deltaDeaths>0?`\n                        <hr>\n                        <div class="changed">\n                            <span style="color: white">TODAY</span><br/>\n                            ${country.deltaCases>0?`<span>+ ${country.deltaCases.toLocaleString()} cases</span><br/>`:""}\n                            ${country.deltaDeaths>0?`<span>+ ${country.deltaDeaths.toLocaleString()} deceased</span><br/>`:""}\n                        </div>\n                        `:""}\n        </div>\n    `,
+    fadeIn = (reports, deaths, recovered) => {
+        setTimeout(() => {
+            try {
+                new CountUp("total-cases", reports - deaths - recovered, COUNT_UP_OPTIONS).start(), setTimeout(() => {
+                    new CountUp("total-deaths", deaths, COUNT_UP_OPTIONS).start()
+                }, 1e3), setTimeout(() => {
+                    new CountUp("total-recovered", recovered, COUNT_UP_OPTIONS).start()
+                }, 1500)
+            } catch (err) {
+                $("#total-cases").text((reports - deaths - recovered).toLocaleString()), $("#total-deaths").text(deaths.toLocaleString()), $("#total-recovered").text(recovered.toLocaleString())
+            }
+        }, 1e3), $("#header").delay(500).fadeIn(500), $("#footer").delay(1e3).fadeIn(500)
+    };
+
+       
+
+    

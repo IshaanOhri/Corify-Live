@@ -15,5 +15,4 @@ app.use(express.static(path.join(__dirname,'../public')))
 //routes middle-ware
 app.use('/resource',resource)
 
-
 app.listen(port,()=>console.log(`server is fired up at port ${port}`))
