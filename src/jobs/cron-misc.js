@@ -3,7 +3,7 @@ const send = require('../notification/send');
 
 console.log('cron-job initialized')
 
-cron.schedule(('* */2 * * *'), async() => {          //running a task every two hours
+cron.schedule(('0 07-23/2 * * *'), async() => {          //running a task every two hours
     try{
         await send('misc');
     }catch(e){
