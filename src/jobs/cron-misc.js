@@ -9,4 +9,7 @@ cron.schedule(('0 07-23/2 * * *'), async() => {          //running a task every 
     }catch(e){
         console.log(e);
     }
+},{
+    scheduled : true,
+    timezone : "Asia/Kolkata"
 });
