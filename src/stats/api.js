@@ -15,6 +15,4 @@ const call = async() => {
     });
 };
 
-call()
-
 module.exports = call;
