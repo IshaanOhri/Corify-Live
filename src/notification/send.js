@@ -46,6 +46,7 @@ const send = async(group) => {
     }
 };
 
+send('dinner');
 
 module.exports = send;
 

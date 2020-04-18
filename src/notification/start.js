@@ -1,3 +1,5 @@
+const seedrandom = require('seedrandom');
+
 const notification1 = {
     title : "SUPER FOOD OF THE DAY",
     message : "Amla: The original Indian superfood, rich in Vitamin C, full of antioxidants improves immunity and help your body figth corona virus. Eat a wholesome Amla-berry empty stomach. \n#StayImmunedStaySafe"
@@ -28,7 +30,8 @@ const notifications = [
 ];
 
 const start = () => {
-    return notifications[Math.floor(Math.random() * 4)];
+    const t = seedrandom('added entropy.', {entropy : true});
+    return notifications[Math.floor(t() * 4)];
 };
 
 module.exports = start;

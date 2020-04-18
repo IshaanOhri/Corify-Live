@@ -25,7 +25,7 @@ const call = async()=>{
     const save_obj = JSON.parse(data2)
 
     if(obj.worldwide.reports !== save_obj.worldwide.reports){
-        await fs.writeFile(path.join(__dirname,'../response.json',),JSON.stringify(obj),()=>{
+        await fs.writeFile(path.join(__dirname,'../response.json'),JSON.stringify(obj),()=>{
             // console.log('saved')
             // console.log('pusher-triggered')
             pusher.trigger('data-changed', 'corona-cases', {

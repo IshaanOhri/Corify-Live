@@ -1,3 +1,5 @@
+const seedrandom = require('seedrandom');
+
 const notification1 = {
     title : "WIN OVER CORONA",
     message : "Do not go out unnecessarily.\n#StayHomeStaySafe"
@@ -55,12 +57,12 @@ const notification11 = {
 
 const notification12 = {
     title : "LOCKDOWN PASS-TIMES",
-    message : "COnnect with your friends with video-conferencing. \n#StayConnectedStaySafe"
+    message : "Connect with your friends with video-conferencing. \n#StayConnectedStaySafe"
 };
 
 const notification13 = {
     title : "TIP OF THE DAY",
-    message : "Food-items like Haldi, Jeera, Dhaniya, Ginger and garlic are recommended to be used significantly in cooking. \nStayInformedStaySafe"
+    message : "Food-items like Haldi, Jeera, Dhaniya, Ginger and garlic are recommended to be used significantly in cooking. \n#StayInformedStaySafe"
 };
 
 const notification14 = {
@@ -86,7 +88,8 @@ const notifications = [
 ];
 
 const misc = () => {
-    return notifications[Math.floor(Math.random() * 14)];
+    const t = seedrandom('added entropy.', {entropy : true});
+    return notifications[Math.floor(t() * 14)];
 };
 
 module.exports = misc;
