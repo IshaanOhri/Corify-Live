@@ -10,6 +10,7 @@ require('./jobs/cron-lunch')
 require('./jobs/cron-dinner')
 require('./jobs/cron-misc')
 require('./news/cron')
+require('./stats/cron')
 
 const port = process.env.PORT || 80
 const app = new express()

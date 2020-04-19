@@ -3,7 +3,7 @@ const call = require('./api');
 
 console.log('cron-job initialized');
 
-cron.schedule('*/10 * * * *',async()=>{
+cron.schedule('*/6 * * * *',async()=>{
     try{
         await call();
     }catch(e){
