@@ -18,4 +18,8 @@ router.get('/share',(req, res)=>{
     res.sendFile(path.join(__dirname,'../server_assets/share.png'))
 })
 
+router.get('/apk', (req, res) => {
+    res.download(path.join(__dirname,'../server_assets/corify.apk'));
+})
+
 module.exports = router
