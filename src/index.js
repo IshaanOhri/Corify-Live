@@ -12,7 +12,7 @@ require('./jobs/cron-misc')
 require('./news/cron')
 require('./stats/cron')
 
-const port = process.env.PORT || 80
+const port = process.env.PORT
 const app = new express()
 
 //json body parser
