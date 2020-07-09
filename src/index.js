@@ -26,4 +26,18 @@ app.use('/resource',resource)
 app.use('/news',news)
 app.use(states)
 
+app.use('/health', (req, res) => {
+    res.send({
+        success: true,
+        message: 'Corify running successfully'
+    })
+})
+
+app.use((req, res) => {
+    res.send({
+        success: false,
+        message: 'The requested route does not exist'
+    })
+})
+
 app.listen(port,()=>console.log(`server is fired up at port ${port}`))
