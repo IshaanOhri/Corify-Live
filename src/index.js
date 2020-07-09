@@ -34,10 +34,7 @@ app.use('/health', (req, res) => {
 })
 
 app.use((req, res) => {
-    res.send({
-        success: false,
-        message: 'The requested route does not exist'
-    })
+    res.redirect('/')
 })
 
 app.listen(port,()=>console.log(`server is fired up at port ${port}`))
