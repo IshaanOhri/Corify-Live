@@ -1,3 +1,4 @@
+require('newrelic')
 const express = require('express')
 const resource = require('./routes/resource')
 const path = require('path')
