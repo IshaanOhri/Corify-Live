@@ -1,7 +1,7 @@
 module.exports = {
 	apps : [{
 	  name: 'scorecard',
-	  instances : "max",
+	  instances : 2,
 	  exec_mode : "cluster",
 	  script: './src/index.js',
 	  env: {
