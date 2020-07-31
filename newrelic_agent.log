@@ -1,0 +1,70 @@
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9693,"time":"2020-07-14T05:58:34.546Z","msg":"Using New Relic for Node.js. Agent version: 6.11.0; Node version: v12.18.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9693,"time":"2020-07-14T05:58:34.851Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9693,"time":"2020-07-14T05:58:35.237Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9693,"time":"2020-07-14T05:58:35.237Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9693,"time":"2020-07-14T05:58:39.339Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9693,"time":"2020-07-14T05:58:39.340Z","msg":"Connected to collector-001.eu01.nr-data.net:443 with agent run ID BA97Q7HUXTQAACqXLAL18q9fDUngAAgBAAAjHQECBALpouwDAAY2LjExLjAAC2lzaGFhbnMtbWJwAAZDb3JpZnk.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9693,"time":"2020-07-14T05:58:39.340Z","msg":"Reporting to: https://rpm.eu.newrelic.com/accounts/2791212/applications/48866028","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9693,"time":"2020-07-14T05:58:39.343Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9693,"time":"2020-07-14T05:58:39.347Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9693,"time":"2020-07-14T05:58:40.347Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9723,"time":"2020-07-14T05:58:57.220Z","msg":"Using New Relic for Node.js. Agent version: 6.11.0; Node version: v12.18.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9723,"time":"2020-07-14T05:58:57.456Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9723,"time":"2020-07-14T05:58:57.648Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9723,"time":"2020-07-14T05:58:57.648Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9723,"time":"2020-07-14T05:59:01.816Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9723,"time":"2020-07-14T05:59:01.817Z","msg":"Connected to collector-001.eu01.nr-data.net:443 with agent run ID BHPGCC3LMekxACqXLAL18q9fDUocAAgBAAAjHQECBALpouwDAAY2LjExLjAAC2lzaGFhbnMtbWJwAAZDb3JpZnk.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9723,"time":"2020-07-14T05:59:01.817Z","msg":"Reporting to: https://rpm.eu.newrelic.com/accounts/2791212/applications/48866028","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9723,"time":"2020-07-14T05:59:01.818Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9723,"time":"2020-07-14T05:59:01.821Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9723,"time":"2020-07-14T05:59:02.826Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9744,"time":"2020-07-14T05:59:06.048Z","msg":"Using New Relic for Node.js. Agent version: 6.11.0; Node version: v12.18.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9744,"time":"2020-07-14T05:59:06.149Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9744,"time":"2020-07-14T05:59:06.365Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9744,"time":"2020-07-14T05:59:06.365Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9744,"time":"2020-07-14T05:59:10.256Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9744,"time":"2020-07-14T05:59:10.256Z","msg":"Connected to collector-001.eu01.nr-data.net:443 with agent run ID BOL9D1XG2ln-ACqXLAL18q9fDUocAAgBAAAjHQECBALpouwDAAY2LjExLjAAC2lzaGFhbnMtbWJwAAZDb3JpZnk.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9744,"time":"2020-07-14T05:59:10.256Z","msg":"Reporting to: https://rpm.eu.newrelic.com/accounts/2791212/applications/48866028","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9744,"time":"2020-07-14T05:59:10.257Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9744,"time":"2020-07-14T05:59:10.259Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9744,"time":"2020-07-14T05:59:11.265Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9779,"time":"2020-07-14T06:00:00.569Z","msg":"Using New Relic for Node.js. Agent version: 6.11.0; Node version: v12.18.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9779,"time":"2020-07-14T06:00:00.891Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9779,"time":"2020-07-14T06:00:01.087Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9779,"time":"2020-07-14T06:00:01.087Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9779,"time":"2020-07-14T06:00:05.210Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9779,"time":"2020-07-14T06:00:05.211Z","msg":"Connected to collector-001.eu01.nr-data.net:443 with agent run ID BJmqKO_aSsKYACqXLAL18q9fDUpYAAgBAAAjHQECBALpouwDAAY2LjExLjAAC2lzaGFhbnMtbWJwAAZDb3JpZnk.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9779,"time":"2020-07-14T06:00:05.211Z","msg":"Reporting to: https://rpm.eu.newrelic.com/accounts/2791212/applications/48866028","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9779,"time":"2020-07-14T06:00:05.214Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9779,"time":"2020-07-14T06:00:05.218Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9779,"time":"2020-07-14T06:00:06.222Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9872,"time":"2020-07-14T06:02:03.572Z","msg":"Using New Relic for Node.js. Agent version: 6.11.0; Node version: v12.18.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9872,"time":"2020-07-14T06:02:03.853Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9872,"time":"2020-07-14T06:02:04.013Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9872,"time":"2020-07-14T06:02:04.013Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9872,"time":"2020-07-14T06:02:07.425Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9872,"time":"2020-07-14T06:02:07.426Z","msg":"Connected to collector-001.eu01.nr-data.net:443 with agent run ID BBSSjPHUvR4YACqXLAL18q9fDUrQAAgBAAAjHQECBALpouwDAAY2LjExLjAAC2lzaGFhbnMtbWJwAAZDb3JpZnk.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9872,"time":"2020-07-14T06:02:07.426Z","msg":"Reporting to: https://rpm.eu.newrelic.com/accounts/2791212/applications/48866028","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9872,"time":"2020-07-14T06:02:07.428Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9872,"time":"2020-07-14T06:02:07.433Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9872,"time":"2020-07-14T06:02:08.439Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9984,"time":"2020-07-14T06:06:00.688Z","msg":"Using New Relic for Node.js. Agent version: 6.11.0; Node version: v12.18.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9984,"time":"2020-07-14T06:06:00.948Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9984,"time":"2020-07-14T06:06:01.108Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9984,"time":"2020-07-14T06:06:01.109Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9984,"time":"2020-07-14T06:06:05.254Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9984,"time":"2020-07-14T06:06:05.255Z","msg":"Connected to collector-001.eu01.nr-data.net:443 with agent run ID BLUGIpnz-vS3ACqXLAL18q9fDUvAAAgBAAAjHQECBALpouwDAAY2LjExLjAAC2lzaGFhbnMtbWJwAAZDb3JpZnk.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9984,"time":"2020-07-14T06:06:05.255Z","msg":"Reporting to: https://rpm.eu.newrelic.com/accounts/2791212/applications/48866028","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9984,"time":"2020-07-14T06:06:05.257Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9984,"time":"2020-07-14T06:06:05.262Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":9984,"time":"2020-07-14T06:06:06.267Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":10080,"time":"2020-07-14T06:08:02.265Z","msg":"Using New Relic for Node.js. Agent version: 6.11.0; Node version: v12.18.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":10080,"time":"2020-07-14T06:08:02.479Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":10080,"time":"2020-07-14T06:08:02.611Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":10080,"time":"2020-07-14T06:08:02.611Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":10080,"time":"2020-07-14T06:08:06.704Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":10080,"time":"2020-07-14T06:08:06.704Z","msg":"Connected to collector-001.eu01.nr-data.net:443 with agent run ID BCwU0QLv9SSWACqXLAL18q9fDUw4AAgBAAAjHQECBALpouwDAAY2LjExLjAAC2lzaGFhbnMtbWJwAAZDb3JpZnk.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":10080,"time":"2020-07-14T06:08:06.704Z","msg":"Reporting to: https://rpm.eu.newrelic.com/accounts/2791212/applications/48866028","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":10080,"time":"2020-07-14T06:08:06.707Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":10080,"time":"2020-07-14T06:08:06.711Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"ishaans-mbp","pid":10080,"time":"2020-07-14T06:08:07.715Z","msg":"Starting initial 1000ms harvest."}
